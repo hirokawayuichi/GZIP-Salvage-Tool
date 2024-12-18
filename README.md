@@ -1,4 +1,4 @@
-Salvage tool for corrupted GZIP(.tgz/.gz) file. 
+Salvage tool for corrupted GZIP(.tgz/.tar.gz/.gz) file. 
 
 Prerequisites: Python ver.3, Gunzip, GNU TAR
 
