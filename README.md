@@ -1,4 +1,5 @@
 Salvage tool for corrupted GZIP(.tgz/.tar.gz/.gz) file. 
+
 This software is provided "AS IS". 
 Please use at YOUR OWN RISK. 
 
