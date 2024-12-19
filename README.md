@@ -1,4 +1,6 @@
 Salvage tool for corrupted GZIP(.tgz/.tar.gz/.gz) file. 
+This software is provided "AS IS". 
+Please use at YOUR OWN RISK. 
 
 Prerequisites: Python ver.3, Gunzip, GNU TAR
 
